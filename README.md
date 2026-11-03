@@ -1,6 +1,6 @@
-# Hi there, I'm a Creator! 👋
+# Hi there, we are  Creator! 👋
 
-## 👤 About Me
+## 👤 About Us
 This profile showcases the collective skills, professional expertise, and collaborative contributions of the persons involved in this project. We focus on building clean, structured, and modern web experiences.
 
 ---
@@ -24,6 +24,6 @@ This profile showcases the collective skills, professional expertise, and collab
 
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Reach Us
 * **GitHub:** https://github.com/dibakar704
 *“Showcasing capabilities, one commit at a time.”*
