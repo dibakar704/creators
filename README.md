@@ -1,29 +1,27 @@
-# Hi there, we are  Creator! 👋
+# Student Profile Website
 
-## 👤 About Us
-This profile showcases the collective skills, professional expertise, and collaborative contributions of the persons involved in this project. We focus on building clean, structured, and modern web experiences.
+A collaborative web development project built to practice Git branching, Pull Requests, and team workflows on GitHub. Each member worked independently on their own feature branch and merged their completed page into `main`.
 
----
+## Team Roles & Contributions
 
-## 🚀 Skills & Technologies
+| Team Member | GitHub | Role | Branch | Assigned File |
+| :--- | :--- | :--- | :--- | :--- |
+| **Dibakar Das** | [@dibakar704](https://github.com) | Team Lead & Profile Developer | `main` / `feature/profile` | `README.md`, `profile.html` |
+| **Suryansh** | [@rsuryansh9026-cell](https://github.com) | Skills Developer | `feature/skills` | `skills.html` |
+| **Tanmay Daga** | [@tanmay-daga](https://github.com) | Contact Developer | `feature/contact` | `contact.html` |
 
-### 🌐 Frontend Development
-* **HTML5** - Structured, semantic layouts
-* **CSS3** - Responsive styling & layouts (Flexbox, Grid)
+## Repository Structure
 
-### 🛠️ Tools & Workflows
-* **Version Control** - Git & GitHub
-* **Editor** - Visual Studio Code (VS Code)
+```text
+creators/
+├── README.md       # Project documentation and team details
+├── profile.html    # Team and student profile overview
+├── skills.html     # Technical skills, tools, and coursework
+└── contact.html    # Contact information and inquiry form
+```
 
----
+## Collaboration Workflow
 
-## 📊 Current Status
-* 🔭 I’m currently working on building core web project templates.
-* 🌱 I’m learning advanced CSS layouts and styling workflows.
-* 🤝 I’m looking to collaborate on frontend web development projects.
-
----
-
-## 📫 How to Reach Us
-* **GitHub:** https://github.com/dibakar704
-*“Showcasing capabilities, one commit at a time.”*
+1. **Repository Setup:** Created the public repository, initialized `README.md`, and added all team members as collaborators.
+2. **Feature Development:** Cloned the repository locally and created isolated branches (`feature/profile`, `feature/skills`, `feature/contact`).
+3. **Code Review & Merge:** Pushed individual commits to GitHub, opened Pull Requests targeting `main`, and reviewed/merged all changes.
